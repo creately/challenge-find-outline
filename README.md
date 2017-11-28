@@ -8,7 +8,8 @@ This is a Creately hiring challenge. For more details on this go to our challeng
 
 ## The Challenge
 The challenge is to come up with a solution that can find the outline of a given shape. 
-<Example Image Here>
+
+![](https://raw.githubusercontent.com/Cinergix/challenge-find-outline/master/shape-and-outline.png)
 
 ### Input Shape
 The input for the solution will be a shape in any format/structure defined by you. You can 
