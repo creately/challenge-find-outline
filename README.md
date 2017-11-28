@@ -1,6 +1,11 @@
 # Challenge: Find outline of shape.
 This is a Creately hiring challenge. For more details on this go to our challenge page.
 
+## How to Participate
+- Push your solution to a public github repo under your personal account and send us the link to the repo.
+- Include a README.md file with your thought process/solution design.
+- We have very few rules/guidlines so that you can let your creativity go nuts on this.
+
 ## The Challenge
 The challenge is to come up with a solution that can find the outline of a given shape. 
 <Example Image Here>
@@ -37,9 +42,4 @@ The solution must adhere to the following guidelines
 - You can use any language/framework of your liking.
 - You cannot use frameworks which directly solve the problem. The solution and related design/algorithm must be developed/designed by you. 
 - You can use framework/libraries to solve supporting problems such as basic math or geometry functions.
-- Good code comes with good documentation. 
-
-## How to Participate
-- Push your solution to a public github repo under your personal account and send us the link to the repo.
-- Include a README.md file with your thought process/solution design.
-- We have very few rules/guidlines so that you can let your creativity go nuts on this.
+- Good code comes with good documentation.
